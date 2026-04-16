@@ -1,0 +1,26 @@
+/* GLOBAL RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background: #f6fdf7; /* soft green-tinted white */
+  color: #2e3b2f;
+  line-height: 1.6;
+}
+
+/* PAGE WRAPPER */
+.dashboard,
+.detail-page {
+  padding: 2rem 3rem;
+}
+
+/* HEADINGS */
+h1,h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #2e3b2f;
+}
